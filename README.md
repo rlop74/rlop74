@@ -1,4 +1,6 @@
 ## Hi there 👋
+### Connect with me!
+[LinkedIn](https://www.linkedin.com/in/russel-lopez-557242128/)
 
 <!--
 **rlop74/rlop74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
