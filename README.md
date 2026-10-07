@@ -1,5 +1,5 @@
 # Hi there 👋
-Infrastructure professional with 8+ years of experience in systems administration, networking, security, and automation. Currently focused on Cloud and Platform Engineering, with hands-on experience building AWS infrastructure using Terraform, Docker, Linux, and automation.
+I am an IT Team Lead with 8+ years of experience in systems and infrastructure. My current focus is Cloud and Platform Engineering, building on my background in systems administration, networking, security, and automation.
 
 ## Cloud & Infrastructure
 AWS · Azure · Terraform · Linux · Networking · Docker
