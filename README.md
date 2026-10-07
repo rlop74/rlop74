@@ -1,5 +1,16 @@
-## Hi there 👋
-### Connect with me!
+# Hi there 👋
+Infrastructure professional with 8+ years of experience in systems administration, networking, security, and automation. Currently focused on Cloud and Platform Engineering, with hands-on experience building AWS infrastructure using Terraform, Docker, Linux, and automation.
+
+## Cloud & Infrastructure
+AWS · Azure · Terraform · Linux · Networking · Docker
+
+## Programming & Automation
+Python · TypeScript · PowerShell · Bash · Git
+
+## Featured Project
+**[AWS Cloud Lab](https://github.com/rlop74/aws-cloud-lab)** — Hands-on cloud infrastructure project focused on designing, deploying, automating, and operating AWS environments using infrastructure as code, containers, observability, networking, and security best practices.
+
+## Connect with me!
 [LinkedIn](https://www.linkedin.com/in/russel-lopez-557242128/)
 
 <!--
