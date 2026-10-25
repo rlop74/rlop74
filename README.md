@@ -2,10 +2,10 @@
 I am an IT Team Lead with 8+ years of experience in systems and infrastructure. My current focus is Cloud and Platform Engineering, building on my background in systems administration, networking, security, and automation.
 
 ## Cloud & Infrastructure
-AWS · Azure · Terraform · Linux · Networking · Docker
+Azure · AWS · Terraform · Docker · Kubernetes · Linux · Networking · Azure RBAC · Azure Policy · Microsoft Entra ID · Azure Monitor · CI/CD
 
 ## Programming & Automation
-Python · TypeScript · PowerShell · Bash · Git
+Python · PowerShell · Bash · TypeScript · Git · GitHub Actions · Azure CLI · REST APIs · Infrastructure as Code
 
 ## Featured Project
 **[Azure Cloud Lab](https://github.com/rlop74/azure-cloud-lab)** — Hands-on Azure cloud engineering project focused on designing, deploying, and automating cloud infrastructure using Terraform, with an emphasis on governance, networking, security, monitoring, and CI/CD.
