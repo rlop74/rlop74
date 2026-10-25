@@ -8,6 +8,7 @@ AWS · Azure · Terraform · Linux · Networking · Docker
 Python · TypeScript · PowerShell · Bash · Git
 
 ## Featured Project
+**[Azure Cloud Lab](https://github.com/rlop74/azure-cloud-lab)** — Hands-on Azure cloud engineering project focused on designing, deploying, and automating cloud infrastructure using Terraform, with an emphasis on governance, networking, security, monitoring, and CI/CD.
 **[AWS Cloud Lab](https://github.com/rlop74/aws-cloud-lab)** — Hands-on cloud infrastructure project focused on designing, deploying, automating, and operating AWS environments using infrastructure as code, containers, observability, networking, and security best practices.
 
 ## Connect with me!
